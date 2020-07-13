@@ -157,6 +157,7 @@ public class DeadLockLearn {
         }
     }*/
 
+
     //解决方法：需要使用开放调用，即避免在持有锁的情况下调用外部的方法。
     //正确的代码
     /*class Taxi {
