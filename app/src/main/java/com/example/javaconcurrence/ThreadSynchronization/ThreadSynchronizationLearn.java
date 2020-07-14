@@ -103,4 +103,5 @@ public class ThreadSynchronizationLearn {
     //致在JDK1.6上synchronize的性能并不比Lock差。官方也表示，他们也更支持
     //synchronize，在未来的版本中还有优化余地，所以还是提倡在synchronized能实现
     //需求的情况下，优先考虑使用synchronized来进行同步。
+
 }
