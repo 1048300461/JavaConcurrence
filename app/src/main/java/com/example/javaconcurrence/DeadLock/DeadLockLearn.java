@@ -56,6 +56,7 @@ public class DeadLockLearn {
             }
         }
 
+
         //2 动态的锁顺序死锁：动态的锁顺序死锁是指两个线程调用同一个方法时，传入的参数颠倒造成的死锁。
         //如下代码，一个线程调用了transferMoney方法并传入参数accountA,accountB；另
         //一个线程调用了transferMoney方法并传入参数accountB,accountA。此时就可能发
