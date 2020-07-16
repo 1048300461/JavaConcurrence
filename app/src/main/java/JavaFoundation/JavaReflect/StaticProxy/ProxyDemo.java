@@ -1,4 +1,4 @@
-package AndroidFoundation.JavaReflect.StaticProxy;
+package JavaFoundation.JavaReflect.StaticProxy;
 
 public class ProxyDemo {
     public static void main(String[] args) {

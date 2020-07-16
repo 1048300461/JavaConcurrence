@@ -1,4 +1,4 @@
-package AndroidFoundation.JavaReflect.StaticProxy;
+package JavaFoundation.JavaReflect.StaticProxy;
 
 public class RealSubject implements Subject {
     @Override

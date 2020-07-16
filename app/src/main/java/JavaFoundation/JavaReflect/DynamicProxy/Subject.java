@@ -1,4 +1,4 @@
-package AndroidFoundation.JavaReflect.DynamicProxy;
+package JavaFoundation.JavaReflect.DynamicProxy;
 
 /**
  * 主题接口

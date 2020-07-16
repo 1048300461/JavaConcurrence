@@ -1,4 +1,4 @@
-package AndroidFoundation.JavaReflect;
+package JavaFoundation.JavaReflect;
 
 public class ObjectFactory {
     //String string = (String) ObjectFactory.getInstance("java.util.Date");

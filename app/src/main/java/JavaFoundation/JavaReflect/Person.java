@@ -1,4 +1,4 @@
-package AndroidFoundation.JavaReflect;
+package JavaFoundation.JavaReflect;
 
 public class Person {
     private String name;

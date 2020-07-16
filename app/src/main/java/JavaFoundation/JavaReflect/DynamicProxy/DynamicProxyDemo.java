@@ -1,4 +1,4 @@
-package AndroidFoundation.JavaReflect.DynamicProxy;
+package JavaFoundation.JavaReflect.DynamicProxy;
 
 import java.lang.reflect.Proxy;
 

@@ -1,4 +1,4 @@
-package AndroidFoundation.JavaReflect;
+package JavaFoundation.JavaReflect;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Constructor;

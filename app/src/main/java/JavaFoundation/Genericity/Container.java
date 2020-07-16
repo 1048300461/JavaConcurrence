@@ -1,4 +1,4 @@
-package AndroidFoundation.Genericity;
+package JavaFoundation.Genericity;
 
 public class Container<K, V> {
     private K key;

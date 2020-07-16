@@ -1,4 +1,4 @@
-package AndroidFoundation.Genericity;
+package JavaFoundation.Genericity;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package AndroidFoundation.JavaReflect;
+package JavaFoundation.JavaReflect;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.ParameterizedType;
